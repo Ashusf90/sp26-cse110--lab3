@@ -1,4 +1,4 @@
 # Lab 2 - Starter
-Part 1) A simple HTML website outlining Meeting Minutes 
+Part 1) https://ailapj.github.io/Lab2_Starter/ 
 
 Part 2) Scavenger hunt answers
